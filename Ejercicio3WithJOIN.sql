@@ -21,6 +21,7 @@ PEDIDOS (nro_pedido, nro_cliente, fecha_pedido)
 
 nro_pedido es único
 
+
 DETALLE_PEDIDOS (nro_pedido, nro_producto, cantidad)
 nro_producto es único por pedido
  */
